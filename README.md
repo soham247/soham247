@@ -27,9 +27,9 @@ A fullstack developer from India
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham247&show_icons=true&theme=onedark&locale=en&layout=compact" alt="soham247" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham247&show_icons=true&theme=dracula&locale=en&layout=compact" alt="soham247" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham247&show_icons=true&theme=onedark&locale=en" alt="soham247" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham247&show_icons=true&theme=dracula&locale=en" alt="soham247" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham247&theme=highcontrast" alt="soham247" /></p>
 
