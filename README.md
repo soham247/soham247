@@ -41,4 +41,7 @@ A fullstack developer from India
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soham247&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soham247&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/soham247/count.svg" />
