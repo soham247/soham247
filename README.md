@@ -56,12 +56,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=soham247&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=soham247&theme=codeSTACKr&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham247&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham247&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=soham247&theme=codeSTACKr&hide_border=false" alt="GitHub Streak"/>
 
 <br>
 
