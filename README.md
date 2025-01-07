@@ -68,7 +68,9 @@
 <br>
 
 <p align="center">
+
   <b>👥 Visitor Count</b>
+
   <br>
   
   <img src="https://profile-counter.glitch.me/soham247/count.svg" alt="Visitor Count"/>
