@@ -65,6 +65,10 @@
 
   <img src="https://streak-stats.demolab.com?user=soham247&theme=codeSTACKr&hide_border=false" alt="GitHub Streak"/>
 
+  <br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soham247&theme=gruvbox" alt="GitHub Streak"/>
+
 <br>
 
 <p align="center">
