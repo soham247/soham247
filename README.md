@@ -11,6 +11,8 @@
   <a href="https://x.com/geekSoham"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+
 <hr width="50%" style="height: 2px; background-color: #FF7800;">
 
 <h2>💻 Technical Skills</h2>
