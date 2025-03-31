@@ -7,9 +7,17 @@
 <h3>🚀 Full Stack Developer | India 🇮🇳</h3>
 
 <p>
-  <a href="https://linkedin.com/in/sohamsadhukhan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/geekSoham"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://linkedin.com/in/sohamsadhukhan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/geekSoham">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://drive.google.com/file/d/12wcWVxNuRwIcbvLLoJ8ANqirlzPkquzC/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 
