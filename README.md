@@ -5,13 +5,13 @@
 <h3>🚀 Full Stack AI Developer | Building Digital Experiences | India 🇮🇳</h3>
 
 <p>
-  <a href="https://linkedin.com/in/sohamsadhukhan">
+  <a href="https://linkedin.com/in/sohamsadhukhan2004">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/geekSoham">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat-square&logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://drive.google.com/file/d/12wcWVxNuRwIcbvLLoJ8ANqirlzPkquzC/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1sfZNSLlOEoxc9yA1mxOhfWIqG-Tjj7hU/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-FF5722.svg?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=soham247&color=ff7800&style=flat-square" alt="Profile Views"/>
