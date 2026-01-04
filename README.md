@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Soham%20Sadhukhan&fontSize=50&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7800,100:FF4500&height=120&section=header&text=Soham%20Sadhukhan&fontSize=50&fontColor=fff&animation=fadeIn" />
 
 <h3>🚀 Full Stack AI Developer | Building Digital Experiences | India 🇮🇳</h3>
 
@@ -22,6 +22,16 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### Gen AI
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Gen_AI-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLM-EC4899?style=for-the-badge&logo=ai&logoColor=white" alt="Large Language Models"/>
+</p>
 
 ### Frontend Development
 <p>
@@ -75,12 +85,12 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soham247&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7800&icon_color=FF7800&text_color=FFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soham247&theme=radical&hide_border=true&background=0D1117&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakLabel=FF7800" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=soham247&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7800&icon_color=FF7800&text_color=FFF" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=soham247&theme=radical&hide_border=true&background=0D1117&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakLabel=FF7800" alt="GitHub Streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soham247&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF7800&line=FF7800&point=FFFFFF" alt="Contribution Graph"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soham247&theme=monokai" alt="Contribution Graph"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham247&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7800&text_color=FFF&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soham247&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7800&text_color=FFF&layout=compact&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -91,6 +101,6 @@
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7800,100:FF4500&height=100&section=footer" />
 
 </div>
