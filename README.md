@@ -27,6 +27,7 @@
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Gen_AI-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI"/>
@@ -86,7 +87,7 @@
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=soham247&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7800&icon_color=FF7800&text_color=FFF" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=soham247&theme=radical&hide_border=true&background=0D1117&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakLabel=FF7800" alt="GitHub Streak"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=soham247&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soham247&theme=monokai" alt="Contribution Graph"/>
 
