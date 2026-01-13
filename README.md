@@ -11,7 +11,7 @@
   <a href="https://x.com/geekSoham">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat-square&logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://drive.google.com/file/d/1sfZNSLlOEoxc9yA1mxOhfWIqG-Tjj7hU/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1OTEtuiAyWC15DB6q15OmKhElo2Yxik3t/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-FF5722.svg?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=soham247&color=ff7800&style=flat-square" alt="Profile Views"/>
